@@ -1,0 +1,1 @@
+Sample text file for testing, You can find here all sample. Sample Text Files Details The text file is a basic computer file that has text without any formatting like bold, italic, and other formats. This file has stored with .txt file format. How to open .txt files? .txt file is open with any type.
