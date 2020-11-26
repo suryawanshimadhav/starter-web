@@ -7,4 +7,4 @@ using various command for this projects.
 Adding purpose of this project
 ## How to contribute
 ##Deployment
-Sample website with plenty of files for demos
+under this section we are adding deployment steps for the webprojects.
