@@ -1,7 +1,8 @@
 # Starter Web project
 ## Introduction
 This repository is for showing how Git and GitHub work
-
+in this section we are going to cover diffrence section
+using various command for this projects.
 ## Purpose
 ## How to contribute
 ##Deployment
