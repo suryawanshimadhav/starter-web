@@ -8,3 +8,6 @@ Adding purpose of this project
 ## How to contribute
 ##Deployment
 under this section we are adding deployment steps for the webprojects.
+#copy right
+Adding copy right notice for git traning 2020
+
