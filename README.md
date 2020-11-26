@@ -6,6 +6,7 @@ using various command for this projects.
 ## Purpose
 Adding purpose of this project
 ## How to contribute
+Please for this repository and issue pull request.
 ##Deployment
 under this section we are adding deployment steps for the webprojects.
 #copy right
